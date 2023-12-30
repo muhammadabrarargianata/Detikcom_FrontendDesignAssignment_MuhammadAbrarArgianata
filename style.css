@@ -4,10 +4,8 @@
     scroll-behavior: smooth;
 }
 
-/* ========================= */
-/* header */
-/* ========================= */
 
+/* header */
 .main-bg {
     width: 100%;
     height: 100vh;
@@ -272,10 +270,8 @@
     }
 }
 
-/* ========================= */
-/* Body - [About] */
-/* ========================= */
 
+/* Body - About*/
 .main-about {
     width: 100%;
     height: auto;
@@ -530,10 +526,7 @@
 
 }
 
-/* ========================= */
-/* Body - [Support] */
-/* ========================= */
-
+/* Body - Support*/
 .support {
     width: 100%;
     height: fit-content;
@@ -622,10 +615,7 @@
     }
 }
 
-/* ========================= */
-/* Body - [Galeri] */
-/* ========================= */
-
+/* Body - Galeri*/
 .galeri {
     width: 100%;
     height: fit-content;
@@ -742,10 +732,7 @@
     }
 }
 
-/* ========================= */
-/* Body - [Artikel] */
-/* ========================= */
-
+/* Body - Artikel*/
 .artikel {
     width: 100%;
     height: fit-content;
@@ -991,10 +978,7 @@
     }
 }
 
-/* ========================= */
 /* Footer */
-/* ========================= */
-
 .foot-img {
     width: 100%;
     margin-top: -10%;
